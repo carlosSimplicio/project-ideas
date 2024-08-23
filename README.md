@@ -1,5 +1,5 @@
 # project-ideas
-Just come place to keep ideas to develop in the future
+Just a place to write project ideas for the future
 
 ```[tasklist]
 ### Project Ideas
