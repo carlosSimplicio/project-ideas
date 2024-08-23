@@ -28,4 +28,6 @@ Just a place to write project ideas for the future
 - [ ] How compilers work
 - [ ] Computer graphics
 - [ ] Self host projects
+- [ ] CUDA programming
+- [ ] AI related stuff
 ```
