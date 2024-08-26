@@ -16,6 +16,7 @@ Just a place to write project ideas for the future
 - [ ] My own chrome extension "VAULT" to keep notes/info across personal/work PCs
 - [ ] Video hosting app
 - [ ] Game/physics engine
+- [ ] App that switches to another song when Spotify runs an add.
 ```
 
 
