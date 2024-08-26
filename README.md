@@ -17,6 +17,7 @@ Just a place to write project ideas for the future
 - [ ] Video hosting app
 - [ ] Game/physics engine
 - [ ] App that switches to another song when Spotify runs an add.
+- [ ] My own protocol over TCP or UDP
 ```
 
 
@@ -31,4 +32,6 @@ Just a place to write project ideas for the future
 - [ ] Self host projects
 - [ ] CUDA programming
 - [ ] AI related stuff
+- [ ] http3
+- [ ] GRPC
 ```
