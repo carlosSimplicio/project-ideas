@@ -18,6 +18,7 @@ Just a place to write project ideas for the future
 - [ ] Game/physics engine
 - [ ] App that switches to another song when Spotify runs an add.
 - [ ] My own protocol over TCP or UDP
+- [ ] JARVIS - My own persinal assistant that integrates with the apps I made
 ```
 
 
