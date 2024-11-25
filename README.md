@@ -1,6 +1,8 @@
 # project-ideas
 Just a place to write project ideas for the future
 
+### Currently working on: AuthApi - Golang
+
 ```[tasklist]
 ### Project Ideas
 - [ ] My own database - C, Rust or Zig
