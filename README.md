@@ -22,6 +22,7 @@ Just a place to write project ideas for the future
 - [ ] My own protocol over TCP or UDP
 - [ ] JARVIS - My own persinal assistant that integrates with the apps I made
 - [ ] Chrome extension and IOS app that blocks everything for a set interval for "focus" time
+- [ ] My own shader
 ```
 
 
