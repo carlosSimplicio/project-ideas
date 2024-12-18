@@ -39,4 +39,5 @@ Just a place to write project ideas for the future
 - [ ] AI related stuff
 - [ ] http3
 - [ ] GRPC
+- [ ] Dterministic Simulation Testing
 ```
