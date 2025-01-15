@@ -1,7 +1,7 @@
 # project-ideas
 Just a place to write project ideas for the future
 
-### Currently working on: AuthApi - Golang
+### Currently working on: BarberShop Agenda
 
 ```[tasklist]
 ### Project Ideas
@@ -23,6 +23,7 @@ Just a place to write project ideas for the future
 - [ ] JARVIS - My own persinal assistant that integrates with the apps I made
 - [ ] Chrome extension and IOS app that blocks everything for a set interval for "focus" time
 - [ ] My own shader
+- [ ] BarberShop agenda - a complete service for managing barbershop and related services schedules
 ```
 
 
