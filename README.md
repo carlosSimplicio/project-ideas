@@ -24,6 +24,7 @@ Just a place to write project ideas for the future
 - [ ] Chrome extension and IOS app that blocks everything for a set interval for "focus" time
 - [ ] My own shader
 - [ ] BarberShop agenda - a complete service for managing barbershop and related services schedules
+- [ ] Game mixing Lost Saga and Brawl Stars
 ```
 
 
