@@ -25,6 +25,7 @@ Just a place to write project ideas for the future
 - [ ] My own shader
 - [ ] BarberShop agenda - a complete service for managing barbershop and related services schedules
 - [ ] Game mixing Lost Saga and Brawl Stars
+- [ ] Game that uses the webcam and you shoot with your fingers, like duck hunt.
 ```
 
 
