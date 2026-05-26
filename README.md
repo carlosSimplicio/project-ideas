@@ -43,4 +43,5 @@ Just a place to write project ideas for the future
 - [ ] http3
 - [ ] GRPC
 - [ ] Dterministic Simulation Testing
+- [ ] Signed Distance Fields
 ```
