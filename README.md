@@ -1,8 +1,6 @@
 # project-ideas
 Just a place to write project ideas for the future
 
-### Currently working on: BarberShop Agenda
-
 ```[tasklist]
 ### Project Ideas
 - [ ] My own database - C, Rust or Zig
@@ -26,6 +24,7 @@ Just a place to write project ideas for the future
 - [ ] BarberShop agenda - a complete service for managing barbershop and related services schedules
 - [ ] Game mixing Lost Saga and Brawl Stars
 - [ ] Game that uses the webcam and you shoot with your fingers, like duck hunt.
+- [ ] Tool where i can save queries/requests that i use a lot and search them easily through FTS.
 ```
 
 
