@@ -1,7 +1,6 @@
 # project-ideas
 Just a place to write project ideas for the future
 
-```[tasklist]
 ### Project Ideas
 - [ ] My own database - C, Rust or Zig
 - [ ] My own redis - C, Rust or Zig
@@ -25,11 +24,8 @@ Just a place to write project ideas for the future
 - [ ] Game mixing Lost Saga and Brawl Stars
 - [ ] Game that uses the webcam and you shoot with your fingers, like duck hunt.
 - [ ] Tool where i can save queries/requests that i use a lot and search them easily through FTS.
-```
 
 
-
-```[tasklist]
 ### Wanna learn / think of a project to apply it
 - [ ] ElasticSearch
 - [ ] DB sharding
@@ -43,4 +39,3 @@ Just a place to write project ideas for the future
 - [ ] GRPC
 - [ ] Dterministic Simulation Testing
 - [ ] Signed Distance Fields
-```
