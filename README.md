@@ -6,7 +6,7 @@ Just a place to write project ideas for the future
 - [ ] My own redis - C, Rust or Zig
 - [ ] My own reactive js framework - js
 - [ ] Shopping list app - React native
-- [X] 1 million checkboxes - Java, vanilla JS - https://github.com/carlosSimplicio/100-mm-checkboxes
+- [X] 1 million checkboxes - Java, vanilla JS - https://github.com/carlosSimplicio/alota-checkboxes
 - [ ] Sports/Exercise tracker app - Swift
 - [ ] Todo list - Another JS framework, up to decision yet
 - [ ] AuthApi - Golang
