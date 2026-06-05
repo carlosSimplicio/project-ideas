@@ -25,6 +25,8 @@ Just a place to write project ideas for the future
 - [ ] Game that uses the webcam and you shoot with your fingers, like duck hunt.
 - [ ] Tool where i can save queries/requests that i use a lot and search them easily through FTS.
 - [ ] Game of life
+- [ ] Search Engine to query for relevant things i find in the internet
+```
 
 ### Wanna learn / think of a project to apply it
 - [ ] ElasticSearch
