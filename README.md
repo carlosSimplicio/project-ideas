@@ -26,6 +26,7 @@ Just a place to write project ideas for the future
 - [ ] Tool where i can save queries/requests that i use a lot and search them easily through FTS. - https://github.com/carlosSimplicio/kite-c
 - [ ] Game of life
 - [ ] Search Engine to query for relevant things i find in the internet
+- [ ] React renderer for the Terminal
 ```
 
 ### Wanna learn / think of a project to apply it
